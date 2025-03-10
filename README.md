@@ -1,5 +1,5 @@
 # Suicide-Rates-Data-Visualisation
-This project visualizes global suicide rates using a dataset spanning from 1985 to 2016. The visualisation provides insights into global suicide trends based on factors such as age, gender, continent, and country. 
+This project visualises global suicide rates using a dataset spanning from 1985 to 2016. The visualisation provides insights into global suicide trends based on factors such as age, gender, continent, and country. 
 The dashboard is created using the flexdashboard package in R and includes interactive plots, value boxes, and tables to make data exploration easier and more engaging.
 
 ---
