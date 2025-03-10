@@ -1,5 +1,5 @@
-# Suicide-Rates-Data-Visualization
-This project visualizes global suicide rates using a dataset spanning from 1985 to 2016. The visualization provides insights into global suicide trends based on factors such as age, gender, continent, and country. 
+# Suicide-Rates-Data-Visualisation
+This project visualizes global suicide rates using a dataset spanning from 1985 to 2016. The visualisation provides insights into global suicide trends based on factors such as age, gender, continent, and country. 
 The dashboard is created using the flexdashboard package in R and includes interactive plots, value boxes, and tables to make data exploration easier and more engaging.
 
 ---
@@ -10,7 +10,7 @@ The dashboard is divided into two main sections:
 
   * Overall Trend: Displays the global trend of suicides per 100K population from 1985 to 2016.
   * By Age: Shows suicide rates by different age groups over time.
-  * By Gender: Visualizes suicide rates by gender across years.
+  * By Gender: Visualises suicide rates by gender across years.
   * Suicides by Continent and Gender: Displays suicide rates for different continents, broken down by gender.
   * Suicides by Continent and Age: Shows suicide rates by continent, segmented by age group.
   * Global Suicide Rate: Displays a key value for the overall suicide rate globally.
@@ -21,7 +21,7 @@ The dashboard is divided into two main sections:
 
 # **Technologies Used**
 
-  * R: Programming language used to manipulate data and create visualizations.
+  * R: Programming language used to manipulate data and create visualisations.
   * flexdashboard: A package that creates interactive dashboards.
   * highcharter: A library for interactive charts based on Highcharts.
   * plotly: Another library for creating interactive visualizations.
@@ -50,7 +50,7 @@ The dashboard is divided into two main sections:
       ...
     )
 
-# **Features and Visualizations**
+# **Features and Visualisations**
 
 * Overall Suicide Trends
   Line plots to show global suicide rates by year, segmented by age and gender.
@@ -72,4 +72,4 @@ The dashboard is divided into two main sections:
 
 # **Usage**
 
-To run the visualization, open the RMarkdown file in RStudio and execute it. The dashboard will render an interactive visualization of suicide rates based on different factors.
+To run the visualisation, open the RMarkdown file in RStudio and execute it. The dashboard will render an interactive visualisation of suicide rates based on different factors.
